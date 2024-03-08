@@ -1,0 +1,10 @@
+// write the program of the spiral array in 2D dimention
+/*     11 21 31 41 51 61
+       72 82 92 52 62 69   =  o/p     11 21 31 41 51 61 69 85 19 18 37 34 21 14 45 72 82 92 52 62 
+       45 25 35 65 45 85   =           45 65 35 25
+       14 21 34 37 18 19
+	   this is called spial means circle loop
+*/	   
+import java.util.*;
+public class P100
+{}
